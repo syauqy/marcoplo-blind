@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameGod.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="19" Column="34" />
+      <File FileName="Assets\Scripts\FPSWalker.cs" Line="70" Column="2" />
+      <File FileName="Assets\Scripts\Foot Steps.js" Line="130" Column="24" />
+      <File FileName="Assets\Scripts\GameGod.cs" Line="82" Column="24" />
+      <File FileName="Assets\Scripts\enemySoundController.cs" Line="14" Column="17" />
+      <File FileName="Assets\RandomSpawner.cs" Line="10" Column="95" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

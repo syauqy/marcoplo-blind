@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A4E64EDA-AE20-02C0-1AD5-D085D3619030}") = "Marcoplo", "Assembly-CSharp.csproj", "{EA6F7D13-693A-6DAF-3F4A-7A6C46617771}"
+EndProject
+Project("{A4E64EDA-AE20-02C0-1AD5-D085D3619030}") = "Marcoplo", "Assembly-UnityScript.unityproj", "{CFAF9464-427E-EE10-A2B8-4BE42692E055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6F7D13-693A-6DAF-3F4A-7A6C46617771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6F7D13-693A-6DAF-3F4A-7A6C46617771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6F7D13-693A-6DAF-3F4A-7A6C46617771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6F7D13-693A-6DAF-3F4A-7A6C46617771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFAF9464-427E-EE10-A2B8-4BE42692E055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAF9464-427E-EE10-A2B8-4BE42692E055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAF9464-427E-EE10-A2B8-4BE42692E055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAF9464-427E-EE10-A2B8-4BE42692E055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																		GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
